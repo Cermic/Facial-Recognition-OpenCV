@@ -1,0 +1,1 @@
+Please ensure the att_faces folder is one folder up in the hierarchy. This is where the program will search for the faces.
